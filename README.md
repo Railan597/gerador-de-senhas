@@ -10,3 +10,6 @@
 <h1>Gerador de senhas</h1/>
 <div class="senha-box">
 <input type="text"id="senha" readonly placeholder="Sua senha aqui">
+<button id="copiar">Copiar</button>
+</div>
+<div class=
